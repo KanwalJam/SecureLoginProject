@@ -18,7 +18,7 @@ This project demonstrates how to build safer software by applying foundational s
 
 | Layer     | Technology |
 |-----------|------------|
-| Frontend  | HTML, CSS (Vanilla) |
+| Frontend  | HTML, CSS |
 | Backend   | Node.js, Express.js |
 | Database  | SQLite |
 | Security  | bcrypt, input validation, parameterized SQL |
