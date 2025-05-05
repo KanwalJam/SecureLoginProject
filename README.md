@@ -33,7 +33,7 @@ This project demonstrates how to build safer software by applying foundational s
 - This protects against brute-force attacks and rainbow tables.
 
  ✅ 2. SQL Injection Prevention
-- All SQL queries are written with **parameterized placeholders (`?`)**, not string concatenation.
+- All SQL queries are written with **parameterized placeholders ()**, not string concatenation.
 - This makes the database immune to injection attacks like `' OR 1=1 --`.
 
  ✅ 3. Phishing Awareness
